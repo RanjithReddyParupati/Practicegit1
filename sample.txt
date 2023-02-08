@@ -1,1 +1,1 @@
-this text should be encrypted
+sample test
