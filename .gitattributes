@@ -1,2 +1,3 @@
 config.key.txt filter=git-crypt diff=git-crypt
 plugin_customization.ini filter=git-crypt diff=git-crypt
+Repository.repository filter=git-crypt diff=git-crypt
