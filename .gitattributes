@@ -1,1 +1,1 @@
-config.key filter=git-crypt diff=git-crypt
+config.key.txt filter=git-crypt diff=git-crypt
