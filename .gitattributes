@@ -1,1 +1,1 @@
-sample filter=git-crypt diff=git-crypt
+sample.txt filter=git-crypt diff=git-crypt
